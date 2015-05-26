@@ -1,6 +1,6 @@
 {
   "name": "hubot-toppo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "その点トッポってスゲーよな、最後までチョコたっぷりだもん",
   "main": "toppo.coffee",
   "repository": {
